@@ -26,6 +26,8 @@ class MainActivity : AppCompatActivity() {
 
         texto.setText("Valor= $nrSorteado")
 
+        
+
 
 
     }
